@@ -1,5 +1,5 @@
 package greet
 
-func Greet(a string) string{
+func Greet() string{
 return "Sohail";
 }
